@@ -1,10 +1,6 @@
 {
   "replace": false,
   "values": [
-    "northstar:methane",
-    "northstar:flowing_methane",
-    "northstar:hydrogen",
-    "northstar:flowing_hydrogen",
     {
       "id": "#c:diesel",
       "required": false

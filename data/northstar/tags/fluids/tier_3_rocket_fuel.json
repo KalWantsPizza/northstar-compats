@@ -1,9 +1,6 @@
 {
   "replace": false,
   "values": [
-    "northstar:hydrogen",
-    "northstar:liquid_hydrogen",
-    "northstar:flowing_liquid_hydrogen",
     "ad_astra:cryo_fuel",
     {
       "id": "#c:hydrogen",
