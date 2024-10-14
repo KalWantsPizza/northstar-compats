@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "ad_astra:fuel",
+    {
+      "id": "#c:gasoline",
+      "required": false
+    },
+    {
+      "id": "#forge:gasoline",
+      "required": false
+    }
+  ]
+}

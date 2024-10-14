@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_block",
+    "northstar:iron_plating",
+    "northstar:iron_pillar",
+    "northstar:iron_sheetmetal",
+    "create:industrial_iron_block",
+    {
+      "id": "#railways:locometal",
+      "required": false
+    }
+  ]
+}
