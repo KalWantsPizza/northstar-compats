@@ -1,0 +1,14 @@
+{
+  "type":"create:mixing",
+  "heatRequirement":"heated",
+  "ingredients": [
+    {
+      "item": "northstar:tungsten_ingot"
+    }
+  ],
+  "results":[
+    {
+      "amount":111, "fluid":"createmetalwork:molten_tungsten"
+    }
+  ]
+}

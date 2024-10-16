@@ -1,0 +1,14 @@
+{
+  "type":"create:mixing",
+  "heatRequirement":"heated",
+  "ingredients":[
+    {
+      "item":"northstar:crushed_raw_tungsten"
+    }
+  ],
+  "results":[
+    {
+      "amount":222, "fluid":"createmetalwork:molten_tungsten"
+    }
+  ]
+}
