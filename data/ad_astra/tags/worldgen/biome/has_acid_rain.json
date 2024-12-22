@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "northstar:venusian_plains",
+      "required": false
+    },
+    {
+      "id": "northstar:venusian_wastes",
+      "required": false
+    }
+  ]
+}

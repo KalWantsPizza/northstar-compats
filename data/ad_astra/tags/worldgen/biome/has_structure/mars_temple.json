@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "northstar:martian_dunes",
+      "required": false
+    },
+    {
+      "id": "northstar:martian_highlands",
+      "required": false
+    },
+    {
+      "id": "northstar:martian_peaks",
+      "required": false
+    }
+  ]
+}

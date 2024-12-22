@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "ad_astra:lunar_wastelands",
+      "required": false
+    },
+    {
+      "id": "northstar:lunar_plains",
+      "required": false
+    },
+    {
+      "id": "northstar:lunar_crater_fields",
+      "required": false
+    }
+  ]
+}
