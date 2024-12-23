@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "ad_astra:lunarian_wandering_trader",
+    "ad_astra:pygro",
+    "ad_astra:pygro_brute",
+    "ad_astra:zombified_pygro",
+    "ad_astra:mogler",
+    "ad_astra:zombified_mogler",
+    "ad_astra:sulfur_creeper",
+    "ad_astra:corrupted_lunarian",
+    "ad_astra:star_crawler",
+    "ad_astra:martian_raptor",
+    "ad_astra:lunarian"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "dimension": "northstar:venus",
-  "gravity": 8.87,
+  "gravity": 8.72823,
   "orbit": "ad_astra:venus_orbit",
   "oxygen": false,
   "solar_power": 8,
-  "solar_system": "ad_astra:solar_system",
+  "solar_system": "northstar:solar_system",
   "temperature": 464,
   "tier": 3
 }

@@ -1,10 +1,10 @@
 {
   "dimension": "northstar:mercury",
-  "gravity": 3.7,
+  "gravity": 3.72666,
   "orbit": "ad_astra:mercury_orbit",
   "oxygen": false,
   "solar_power": 64,
-  "solar_system": "ad_astra:solar_system",
+  "solar_system": "northstar:solar_system",
   "temperature": 167,
   "tier": 3
 }
