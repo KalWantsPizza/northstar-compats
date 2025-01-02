@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#creatingspace:is_moon",
     {
       "id": "northstar:lunar_plains",
       "required": false

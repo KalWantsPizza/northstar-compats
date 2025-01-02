@@ -12,6 +12,14 @@
     "create:netherite_diving_helmet",
     "create:netherite_backtank",
     "minecraft:netherite_leggings",
-    "create:netherite_diving_boots"
+    "create:netherite_diving_boots",
+    "creatingspace:copper_oxygen_backtank",
+    "creatingspace:netherite_oxygen_backtank",
+    "creatingspace:basic_spacesuit_helmet",
+    "creatingspace:basic_spacesuit_leggings",
+    "creatingspace:basic_spacesuit_boots",
+    "creatingspace:advanced_spacesuit_helmet",
+    "creatingspace:advanced_spacesuit_leggings",
+    "creatingspace:advanced_spacesuit_boots"
   ]
 }

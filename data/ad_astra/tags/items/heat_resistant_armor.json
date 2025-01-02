@@ -8,6 +8,10 @@
     "northstar:martian_steel_space_suit_helmet",
     "northstar:martian_steel_space_suit_chestpiece",
     "northstar:martian_steel_space_suit_leggings",
-    "northstar:martian_steel_space_suit_boots"
+    "northstar:martian_steel_space_suit_boots",
+    "creatingspace:netherite_oxygen_backtank",
+    "creatingspace:advanced_spacesuit_helmet",
+    "creatingspace:advanced_spacesuit_leggings",
+    "creatingspace:advanced_spacesuit_boots"
   ]
 }

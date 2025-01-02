@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#creatingspace:is_mars",
     {
       "id": "northstar:martian_dunes",
       "required": false

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "ad_astra:lunar_wastelands"
+    "ad_astra:lunar_wastelands",
+    "#creatingspace:is_moon"
   ]
 }

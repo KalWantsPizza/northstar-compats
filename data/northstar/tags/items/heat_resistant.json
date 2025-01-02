@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "#ad_astra:netherite_space_suit_items",
-    "#ad_astra:jet_suit_items"
+    "#ad_astra:jet_suit_items",
+    "creatingspace:netherite_oxygen_backtank",
+    "creatingspace:advanced_spacesuit_helmet",
+    "creatingspace:advanced_spacesuit_leggings",
+    "creatingspace:advanced_spacesuit_boots"
   ]
 }

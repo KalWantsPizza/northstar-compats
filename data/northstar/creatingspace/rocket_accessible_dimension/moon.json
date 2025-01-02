@@ -1,0 +1,23 @@
+{
+  "adjacentDimensions": {
+    "creatingspace:moon_orbit": {
+      "deltaV": 300
+    },
+  "ad_astra:moon_orbit": {
+      "deltaV": 300
+    },
+    "northstar:earth_orbit": {
+      "deltaV": 400
+    },
+    "northstar:mars": {
+      "deltaV": 600
+    },
+    "northstar:venus": {
+      "deltaV": 2200
+    }
+  },
+  "arrivalHeight": 200,
+  "gravity": 0,
+  "orbitedBody": "minecraft:overworld",
+  "distanceToOrbitingBody": 400
+}

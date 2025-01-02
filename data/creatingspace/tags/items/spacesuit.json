@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "northstar:iron_space_suit_helmet",
+    "northstar:iron_space_suit_chestpiece",
+    "northstar:iron_space_suit_leggings",
+    "northstar:iron_space_suit_boots",
+    "northstar:martian_steel_space_suit_helmet",
+    "northstar:martian_steel_space_suit_chestpiece",
+    "northstar:martian_steel_space_suit_leggings",
+    "northstar:martian_steel_space_suit_boots",
+    "ad_astra:space_helmet",
+    "ad_astra:space_suit",
+    "ad_astra:space_pants",
+    "ad_astra:space_boots",
+    "#ad_astra:netherite_space_suit_items",
+    "#ad_astra:jet_suit_items"
+  ]
+}
