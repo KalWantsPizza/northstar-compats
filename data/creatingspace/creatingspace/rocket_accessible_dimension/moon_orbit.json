@@ -3,6 +3,9 @@
     "creatingspace:earth_orbit": {
       "deltaV": 200
     },
+    "minecraft:the_end": {
+      "deltaV": 300
+    },
     "creatingspace:the_moon": {
       "deltaV": 300
     },

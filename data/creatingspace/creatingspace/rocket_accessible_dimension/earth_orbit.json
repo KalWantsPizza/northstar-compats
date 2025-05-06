@@ -3,6 +3,9 @@
     "minecraft:overworld": {
       "deltaV": 200
     },
+    "minecraft:the_end": {
+      "deltaV": 200
+    },
     "creatingspace:moon_orbit": {
       "deltaV": 600
     },
